@@ -1,0 +1,7 @@
+pandas
+numpy
+seaborn
+flask
+notebook
+scikit-learn
+dill
